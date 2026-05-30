@@ -4,7 +4,7 @@ This repository contains a responsive, highly interactive landing page developed
 
 ## 🔗 Live Links
 * **Live Preview:** [https://pjb1308.github.io/TECHFEST/#competitions]
-* **Video Demo:** []
+* **Video Demo:** [https://drive.google.com/file/d/1SMNNVF4mn6aT1q680dvlInsVyXim4NuS/view?usp=drive_link]
 
 ## 🚀 Technical Features & Micro-Interactions
 
